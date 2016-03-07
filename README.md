@@ -1,3 +1,5 @@
+(This static site generator is even static itself!)
+
 # QADG
   QADG (Questionably Ample Database Grinder) — The only static site generator you will ever need!
   
